@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.table{
+  border: 1px dotted red;
+}
+
+.country-collumn{
+  box-sizing: border-box;
+  width: 45%;
+}
+#row{
+  display: flex;
+  justify-content: space-around;
+}
+
